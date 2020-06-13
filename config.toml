@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://thethreecats.netlify.app/"
 title = "Rationally Exuberant"
 homePageText = "Just Another Programming Blog"
 copyright = "Copyright © 2020-21, The Three Cats; all rights reserved."
