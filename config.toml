@@ -30,7 +30,7 @@ series = "series"
 author = "authors"
 
 [params]
-  author = "Hugo Authors"
+  author = "The Three Cats"
   description = "Algorithms, math, and cats"
   homepageImage = "/images/homepage-image.jpg"
   share = true
